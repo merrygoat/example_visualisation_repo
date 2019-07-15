@@ -1,6 +1,6 @@
 This is a file. And master changes the first line. Lots.
-Devel edits this line. And then it edits it some more.
+Devel edits this line. And then it edits it some more. And some more. And some more. Do some devel.
 
-
+A featre branch could go here.
 
 Some more changes in branch 3. Even though it is merged, lets do some more here.
